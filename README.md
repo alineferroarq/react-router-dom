@@ -6,3 +6,14 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/alineferroarq/react-table-api.git
+git push -u origin main
+criar arquivo olhar site do vite
+importar bootstrap para o react e copia o link para main.jsx
+react router
+dentro da pasta page cria o arquivo.jsc e digita (rafc)
+control barra de espaço importa a page
