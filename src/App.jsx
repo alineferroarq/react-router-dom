@@ -20,10 +20,10 @@ function App() {
           <a className="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Features</a>
+          <a className="nav-link" href="/usuarios">Usuários</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Pricing</a>
+          <a className="nav-link" href="/cadastro">Cadastro</a>
         </li>
         <li className="nav-item">
           <a className="nav-link disabled" aria-disabled="true">Disabled</a>
